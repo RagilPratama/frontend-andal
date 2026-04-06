@@ -4,7 +4,7 @@ import Providers from "./providers";
 
 export const metadata: Metadata = {
   title: "My App",
-  description: "Next.js app deployed on Railway",
+  description: "Next.js app deployed"
 };
 
 export default function RootLayout({

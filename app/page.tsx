@@ -4,7 +4,7 @@ import { useQuery } from "@tanstack/react-query";
 
 async function fetchMessage() {
   // ganti dengan API call kamu
-  return { message: "Hello from Railway 🚂" };
+  return { message: "Hello ragilganteng };
 }
 
 export default function Home() {
