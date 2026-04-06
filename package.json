@@ -16,6 +16,9 @@
     "react-dom": "^19.0.0",
     "tailwindcss": "^4"
   },
+  "optionalDependencies": {
+    "lightningcss-linux-x64-gnu": "*"
+  },
   "devDependencies": {
     "@types/node": "^20",
     "@types/react": "^19",
